@@ -16,6 +16,7 @@
         </activity>
 
         <activity android:name="ru.android.german.lesson7.WebActivity"></activity>
+        <activity android:name="ru.android.german.lesson7.ChannelActivity"></activity>
 
         <service android:name="ru.android.german.lesson7.FeedLoader"></service>
 
